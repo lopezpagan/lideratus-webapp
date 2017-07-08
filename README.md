@@ -1,2 +1,2 @@
 # lideratus-webapp
-Quotes leadership webapp made with vuejs.
+Leadership quotes webapp made with vuejs.
